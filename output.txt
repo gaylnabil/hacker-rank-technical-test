@@ -1,0 +1,1 @@
+Both Players Are Given The Same String, .both Players Have To Make Substrings Using The Letters Of The String .stuart Has To Make Words Starting With Consonants.kevin Has To Make Words Starting With Vowels.
